@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: laravel-app
-          image: your-registry/laravel-app:latest # Replace with your Docker image
+          image: e00333ed4a0c857926ed1319b5c82bf7ca08132f45cec64f2c64f5257d6e557d/laravel-app:latest # Replace with your Docker image
           ports:
             - containerPort: 9000
